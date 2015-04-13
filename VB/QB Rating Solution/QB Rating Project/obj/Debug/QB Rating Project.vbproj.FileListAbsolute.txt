@@ -1,0 +1,10 @@
+F:\Personal Projects\QB Rating\VB\QB Rating Solution\QB Rating Project\bin\Debug\QB Rating Project.exe.config
+F:\Personal Projects\QB Rating\VB\QB Rating Solution\QB Rating Project\bin\Debug\QB Rating Project.exe
+F:\Personal Projects\QB Rating\VB\QB Rating Solution\QB Rating Project\bin\Debug\QB Rating Project.pdb
+F:\Personal Projects\QB Rating\VB\QB Rating Solution\QB Rating Project\bin\Debug\QB Rating Project.xml
+F:\Personal Projects\QB Rating\VB\QB Rating Solution\QB Rating Project\obj\Debug\QB_Rating_Project.frmMain.resources
+F:\Personal Projects\QB Rating\VB\QB Rating Solution\QB Rating Project\obj\Debug\QB_Rating_Project.Resources.resources
+F:\Personal Projects\QB Rating\VB\QB Rating Solution\QB Rating Project\obj\Debug\QB Rating Project.vbproj.GenerateResource.Cache
+F:\Personal Projects\QB Rating\VB\QB Rating Solution\QB Rating Project\obj\Debug\QB Rating Project.exe
+F:\Personal Projects\QB Rating\VB\QB Rating Solution\QB Rating Project\obj\Debug\QB Rating Project.xml
+F:\Personal Projects\QB Rating\VB\QB Rating Solution\QB Rating Project\obj\Debug\QB Rating Project.pdb
